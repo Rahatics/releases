@@ -1,5 +1,10 @@
 # Saimum Academy - Changelog
 
+## Version 1.4 (Build 5) - January 9, 2026
+
+### 🔧 Fixes
+- Fixed bugs.
+
 ## Version 1.3 (Build 4) - January 9, 2026
 
 ### 🌙 Smart Greeting Update
