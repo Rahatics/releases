@@ -1,6 +1,6 @@
 {
-    "versionCode": 5,
-    "versionName": "1.4",
-    "releaseNotes": "Emergency Fix: Download Link Restored (v1.4)",
+    "versionCode": 4,
+    "versionName": "1.3",
+    "releaseNotes": "UI Fixes:\n- Dynamic Version in Sidebar\n- Check for Update Button\n- Improved Update Flow",
     "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy-Attendance/release/app-release.apk"
 }
