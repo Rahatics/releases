@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "releaseNotes": "✨ Download Resume Support Added!\n- No more restarting downloads from 0%\n- If internet cuts off, it will resume automatically\n- Improved stability and modern UI",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "releaseNotes": "🎨 New Saimum Academy Logo!\n- Updated app icon with official Saimum Academy logo\n- Improved branding",
   "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy/release/app-release.apk"
 }

@@ -1,5 +1,11 @@
 # Saimum Academy - Changelog
 
+## Version 1.2 (Build 3) - January 8, 2026
+
+### 🎨 New Branding
+- **New App Icon:** Replaced the default icon with the official Saimum Academy logo.
+- Improved visual identity.
+
 ## Version 1.1 (Build 2) - January 8, 2026
 
 ### ✨ New Feature: Resume Downloads
