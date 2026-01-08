@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "releaseNotes": "Initial Release",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "releaseNotes": "New Features:\n- Sidebar Navigation\n- Export to JSON\n- Updated Developer Info",
   "downloadUrl": "https://github.com/Rahatics/releases/raw/main/Saimum-Academy-Attendance/release/app-release.apk"
 }
