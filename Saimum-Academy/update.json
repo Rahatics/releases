@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "releaseNotes": "🎨 New Saimum Academy Logo!\n- Updated app icon with official Saimum Academy logo\n- Improved branding",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "releaseNotes": "🌙 Smart Greeting Update!\n- App now says 'Good Night' 😴 during late hours\n- More natural greetings throughout the day\n- Enhanced emojis for every time slot",
   "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy/release/app-release.apk"
 }
