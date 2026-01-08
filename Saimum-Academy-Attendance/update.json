@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "releaseNotes": "🎨 Modern Dashboard Update:\\n- Premium UI with animated gradients\\n- Dynamic greeting (Morning/Afternoon/Evening)\\n- Colorful stat cards with animations\\n- Enhanced quick action buttons\\n- Improved recent activity section\\n- Smooth entrance animations",
-  "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy-Attendance/release/app-release.apk"
+  "versionCode": 100,
+  "versionName": "2.0 (New App)",
+  "releaseNotes": "🚨 IMPORTANT UPGRADE 🚨\n\nWe have moved to a brand NEW app: 'Saimum Academy'!\n\n👇 THIS UPDATE WILL DOWNLOAD THE NEW APP.\n\nAfter installing:\n1. Open the new 'Saimum Academy' app.\n2. Login and sync your data.\n3. Uninstall this old app.\n\nEnjoy the new Premium Experience! ✨",
+  "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy/release/app-release.apk"
 }
