@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "releaseNotes": "New Features:\n- Dashboard with Summary\n- My Books Section\n- UI Improvements",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "releaseNotes": "Advanced Dashboard Update:\n- Recent Activity Feed\n- Quick Actions\n- Detailed Usage Stats",
   "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy-Attendance/release/app-release.apk"
 }
