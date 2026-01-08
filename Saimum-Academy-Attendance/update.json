@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "releaseNotes": "Advanced Dashboard Update:\n- Recent Activity Feed\n- Quick Actions\n- Detailed Usage Stats",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "releaseNotes": "🎨 Modern Dashboard Update:\\n- Premium UI with animated gradients\\n- Dynamic greeting (Morning/Afternoon/Evening)\\n- Colorful stat cards with animations\\n- Enhanced quick action buttons\\n- Improved recent activity section\\n- Smooth entrance animations",
   "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy-Attendance/release/app-release.apk"
 }
