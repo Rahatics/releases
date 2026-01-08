@@ -1,6 +1,6 @@
 {
-    "versionCode": 4,
-    "versionName": "1.3",
-    "releaseNotes": "UI Fixes:\n- Dynamic Version in Sidebar\n- Check for Update Button\n- Improved Update Flow",
-    "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy-Attendance/release/app-release.apk"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "releaseNotes": "New Features:\n- Dashboard with Summary\n- My Books Section\n- UI Improvements",
+  "downloadUrl": "https://github.com/Rahatics/releases/raw/refs/heads/main/Saimum-Academy-Attendance/release/app-release.apk"
 }
