@@ -1,5 +1,12 @@
 # Saimum Academy - Changelog
 
+## Version 1.1 (Build 2) - January 8, 2026
+
+### ✨ New Feature: Resume Downloads
+- **Resume Support:** Downloads no longer start from 0% if interrupted.
+- Improved network error handling.
+- Optimized performance for faster updates.
+
 ## Version 1.0 (Build 1) - January 8, 2026
 
 ### 🎉 First Release!
